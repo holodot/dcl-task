@@ -1,0 +1,34 @@
+{
+  "display": {
+    "title": "3d_modeling",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "Holodot",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "9,-18"
+    ],
+    "base": "9,-18"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "cded72e1-6f14-44bf-a26f-e2c24c662e1f",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 1,
+      "cols": 1
+    }
+  }
+}
